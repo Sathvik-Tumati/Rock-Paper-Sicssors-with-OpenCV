@@ -1,1 +1,1 @@
-# Rock-Paper-Sicssors-with-OpenCV
+# Rock-Paper-Scissors-with-OpenCV
